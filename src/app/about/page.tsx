@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function AboutPage() {
   const project = {
-    name: "My Website",
+    name: "Next-Auth",
     description: "This is the repository for my personal website built with Next.js and React.",
     link: "https://github.com/SARojk1234/next-auth", // Replace with your actual repository link
   };
